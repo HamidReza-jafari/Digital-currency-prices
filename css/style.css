@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(38, 70, 83);
+    color: rgb(241, 250, 238);
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-form {
+    background-color: rgb(42, 157, 143);
+    border-radius: .5rem;
+}
+
+.show-user {
+    background-color: rgb(131, 197, 190);
+    border-radius: .5rem;
+}
